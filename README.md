@@ -1,1 +1,3 @@
 # demo
+I am learning git.
+Its a demo repo...
